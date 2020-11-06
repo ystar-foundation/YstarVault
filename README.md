@@ -9,3 +9,12 @@ Defi yield aggregator
 - Strategy:
 0xaD471bE5f634F2A3D6584dFa0455632e170E1867
 
+## ETH Vault
+
+- Controller:
+  0xA9Cda21C20Dfe30389E1cE977bE1FFb8E9d89DAB
+- Vault:
+  0xB730984c97631570f9476cC1a8Eb1dC7430ce6B6
+- Strategy:
+  0x2Feea4570420a86C195cA4bb0E7F6ed4D341f313
+
